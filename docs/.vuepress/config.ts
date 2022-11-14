@@ -57,7 +57,8 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
         ]
       },
       {
-        text: "后端"
+        text: "后端",
+        link: ""
       },
       { text: "代码规范", link: "/standard/code/" },
       {
