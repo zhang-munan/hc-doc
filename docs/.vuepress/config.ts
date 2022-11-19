@@ -15,7 +15,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "大连航成",
+      title: "航成科技",
       description: "Welcome to the collaboration document of Dalian HangCheng Technology Co., Ltd."
     }
   },
@@ -131,7 +131,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           },
           {
             title: "在Vue API中搜索",
-            frontUrl: "https://cn.vuejs.org/v2/api/#"
+            frontUrl: "https://cn.vuejs.org/api/"
           },
           {
             title: "在Bing中搜索",
