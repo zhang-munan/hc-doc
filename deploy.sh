@@ -3,8 +3,8 @@
 # 确保脚本抛出遇到的错误
 set -e
 
-
-# push_addr=`git@github.com:<zhang-munan>/<zhang-munan>.github.io.git` # git提交地址，也可以手动设置，比如：push_addr=git@github.com:xugaoyi/vuepress-theme-vdoing.git
+ # git提交地址，也可以手动设置，比如：push_addr=git@github.com:xugaoyi/vuepress-theme-vdoing.git
+push_addr=https://github.com/zhang-munan/hc-doc.git
 commit_info=`git describe --all --always --long`
 dist_path=docs/.vuepress/dist # 打包生成的文件夹路径
 push_branch=gh-pages # 推送的分支
@@ -18,8 +18,7 @@ cd $dist_path
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:<zhang-munan>/<zhang-munan>.github.io.git master
-# git push -f $push_addr HEAD:$push_branch
+git push -f $push_addr HEAD:$push_branch
 
 cd -
 rm -rf $dist_path
