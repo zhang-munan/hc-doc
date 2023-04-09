@@ -1,6 +1,14 @@
 ---
 title: 目录结构
-date: '2022/01/01'
+date: 2022/01/01
+permalink: /pages/474a1d/
+categories: 
+  - guide
+  - uniApp
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 基本的目录结构如下：

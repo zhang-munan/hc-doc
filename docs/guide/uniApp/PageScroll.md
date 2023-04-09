@@ -1,6 +1,14 @@
 ---
 title: 页面布局
-date: '2022/01/19'
+date: 2022/01/19
+permalink: /pages/42d158/
+categories: 
+  - guide
+  - uniApp
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 实现了页面的下拉刷新，上滑加载，空布局等共通处理。

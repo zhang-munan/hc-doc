@@ -1,6 +1,14 @@
 ---
 title: 工具类方法
-date: '2022/01/06'
+date: 2022/01/06
+permalink: /pages/0f62f2/
+categories: 
+  - guide
+  - uniApp
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 

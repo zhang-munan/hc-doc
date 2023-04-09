@@ -37,6 +37,16 @@ module.exports = {
       ]
     }
   ],
+  "/开发工具/": [
+    {
+      title: "版本控制",
+      collapsable: false,
+      children: [
+        ["版本控制/Git.md", "Git使用手册", "/helper/git/"],
+        // ["版本控制/SVN.md", "SVN使用手册", "/helper/svn/"],
+      ]
+    },
+  ],
   "/开发规范/": [
     {
       title: "代码规范",

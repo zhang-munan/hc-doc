@@ -1,6 +1,14 @@
 ---
 title: 表单验证
-date: '2022/01/06'
+date: 2022/01/06
+permalink: /pages/e5035c/
+categories: 
+  - guide
+  - uniApp
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 ## 使用

@@ -1,6 +1,14 @@
 ---
 title: 介绍
-date: '2022/01/01'
+date: 2022/01/01
+permalink: /pages/e239de/
+categories: 
+  - guide
+  - uniApp
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 # 介绍

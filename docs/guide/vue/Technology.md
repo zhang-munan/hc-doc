@@ -1,7 +1,14 @@
 ---
 title: 使用技术介绍
-date: '2022/01/03'
-
+date: 2022/01/03
+permalink: /pages/12b234/
+categories: 
+  - guide
+  - vue
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 

@@ -1,6 +1,14 @@
 ---
 title: 规则检验
-date: '2022/01/06'
+date: 2022/01/06
+permalink: /pages/6548b8/
+categories: 
+  - guide
+  - uniApp
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 ## 常用表单验证

@@ -1,6 +1,14 @@
 ---
 title: 路由跳转
-date: '2022/01/05'
+date: 2022/01/05
+permalink: /pages/5fffc3/
+categories: 
+  - guide
+  - uniApp
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 ## 使用

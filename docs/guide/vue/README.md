@@ -1,6 +1,14 @@
 ---
 title: 基础
-date: '2022/01/03'
+date: 2022/01/03
+permalink: /pages/d6eb2e/
+categories: 
+  - guide
+  - vue
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 ## 特点 🐳

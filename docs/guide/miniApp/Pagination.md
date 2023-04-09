@@ -1,6 +1,14 @@
 ---
 title: 分页处理
-date: '2022/01/06'
+date: 2022/01/06
+permalink: /pages/ba6419/
+categories: 
+  - guide
+  - miniApp
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 ## 设置分页参数

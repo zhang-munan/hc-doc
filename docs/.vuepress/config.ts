@@ -52,6 +52,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
               {
                 text: "微信小程序",
                 link: "/wx/introduce/"
+              },
+              {
+                text: "flutter",
+                link: "/flutter/introduce/"
               }
             ]
           }
@@ -59,17 +63,24 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       },
       {
         text: "后端",
-        link: ""
-      },
-      { text: "代码规范", link: "/standard/code/" },
-      {
-        text: "更多",
         items: [
-          { text: "Git使用手册", link: "" },
+          { text: "Java", link: "" },
+          { text: "nodejs", link: "" },
+          { text: "go", link: "" },
+        ]
+      },
+      {
+        text: "开发",
+        items: [
+          { text: "Git使用手册", link: "/helper/git/" },
           { text: "Markdown使用教程", link: "" },
           { text: "npm常用命令", link: "" },
           { text: "centos相关", link: "" }
         ]
+      },
+      {
+        text: "更多",
+        link: ""
       }
     ],
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）

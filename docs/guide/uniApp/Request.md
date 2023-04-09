@@ -1,6 +1,14 @@
 ---
 title: 请求api
-date: '2022/01/06'
+date: 2022/01/06
+permalink: /pages/c74c1d/
+categories: 
+  - guide
+  - uniApp
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 ## 使用

@@ -1,6 +1,14 @@
 ---
 title: baseConfig全局引入
-date: '2022/01/03'
+date: 2022/01/03
+permalink: /pages/5e8d06/
+categories: 
+  - guide
+  - uniApp
+tags: 
+  - 
+author: 
+  name: 张牧楠
 ---
 
 本节将介绍如何在项目中引入 baseConfig。
