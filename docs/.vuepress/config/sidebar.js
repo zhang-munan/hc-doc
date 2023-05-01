@@ -16,6 +16,21 @@ module.exports = {
       title: "vue网页制作",
       collapsable: false,
       children: [["Vue网页制作/01-介绍.md", "介绍", "/vue-admin/introduce/"]]
+    },
+    {
+      title: "环境搭建",
+      collapsable: false,
+      children: [
+        ["环境搭建/01-node.md", "环境搭建", "/vue-admin/introduce/"]
+      ]
+    },
+    {
+      title: "插件介绍与使用",
+      collapsable: false,
+      children: [
+        ["插件介绍与使用/01-介绍.md", "介绍", "/vue-admin/introduce/"],
+        ["插件介绍与使用/02-快速开始.md", "快速开始", "/vue-admin/start/"]
+      ]
     }
   ],
   "/手机端/": [
